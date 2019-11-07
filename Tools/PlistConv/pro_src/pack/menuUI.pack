@@ -1,0 +1,528 @@
+
+menuUI.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weaponBg
+  rotate: false
+  xy: 1, 744
+  size: 735, 277
+  orig: 735, 277
+  offset: 0, 0
+  index: -1
+topBox
+  rotate: false
+  xy: 738, 897
+  size: 255, 124
+  orig: 255, 124
+  offset: 0, 0
+  index: -1
+itemShdow
+  rotate: false
+  xy: 995, 987
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 995, 958
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 995, 929
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+s4
+  rotate: false
+  xy: 995, 900
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+s5
+  rotate: false
+  xy: 995, 871
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+bubble
+  rotate: false
+  xy: 738, 774
+  size: 211, 121
+  orig: 211, 121
+  offset: 0, 0
+  index: -1
+limitedTime
+  rotate: false
+  xy: 951, 794
+  size: 72, 75
+  orig: 72, 75
+  offset: 0, 0
+  index: -1
+rect
+  rotate: false
+  xy: 951, 886
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+lock
+  rotate: false
+  xy: 951, 736
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+s6
+  rotate: false
+  xy: 999, 765
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+s7
+  rotate: false
+  xy: 999, 736
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+btnPrice1
+  rotate: false
+  xy: 738, 633
+  size: 208, 139
+  orig: 208, 139
+  offset: 0, 0
+  index: -1
+sales
+  rotate: false
+  xy: 948, 659
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+r1
+  rotate: false
+  xy: 948, 607
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+dialogBox
+  rotate: false
+  xy: 1, 165
+  size: 476, 440
+  orig: 476, 440
+  offset: 0, 0
+  index: -1
+weaponInfoBg
+  rotate: false
+  xy: 1, 608
+  size: 374, 134
+  orig: 374, 134
+  offset: 0, 0
+  index: -1
+btnRole
+  rotate: false
+  xy: 377, 614
+  size: 152, 128
+  orig: 152, 128
+  offset: 0, 0
+  index: -1
+roleBox
+  rotate: false
+  xy: 531, 617
+  size: 197, 125
+  orig: 197, 125
+  offset: 0, 0
+  index: -1
+bar
+  rotate: false
+  xy: 730, 440
+  size: 5, 302
+  orig: 5, 302
+  offset: 0, 0
+  index: -1
+btnPrice2
+  rotate: false
+  xy: 737, 492
+  size: 208, 139
+  orig: 208, 139
+  offset: 0, 0
+  index: -1
+r2
+  rotate: false
+  xy: 947, 555
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+r3
+  rotate: false
+  xy: 947, 503
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+r4
+  rotate: false
+  xy: 947, 451
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+btnPrice3
+  rotate: false
+  xy: 737, 351
+  size: 208, 139
+  orig: 208, 139
+  offset: 0, 0
+  index: -1
+r5
+  rotate: false
+  xy: 947, 399
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+r6
+  rotate: false
+  xy: 947, 347
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+btnPrice4
+  rotate: false
+  xy: 1, 24
+  size: 208, 139
+  orig: 208, 139
+  offset: 0, 0
+  index: -1
+weaponBar
+  rotate: false
+  xy: 1, 11
+  size: 154, 11
+  orig: 154, 11
+  offset: 0, 0
+  index: -1
+goldNum
+  rotate: false
+  xy: 531, 564
+  size: 168, 51
+  orig: 168, 51
+  offset: 0, 0
+  index: -1
+s8
+  rotate: false
+  xy: 701, 588
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+s9
+  rotate: false
+  xy: 701, 559
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+btnAbout
+  rotate: false
+  xy: 479, 569
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+btnHelp
+  rotate: false
+  xy: 479, 524
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+btnRifle
+  rotate: false
+  xy: 523, 524
+  size: 161, 38
+  orig: 161, 38
+  offset: 0, 0
+  index: -1
+btnOption
+  rotate: false
+  xy: 686, 514
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+frameDes
+  rotate: false
+  xy: 211, 37
+  size: 389, 126
+  orig: 389, 126
+  offset: 0, 0
+  index: -1
+frameThumbnail
+  rotate: false
+  xy: 479, 166
+  size: 389, 183
+  orig: 389, 183
+  offset: 0, 0
+  index: -1
+btnItem
+  rotate: false
+  xy: 479, 352
+  size: 89, 86
+  orig: 89, 86
+  offset: 0, 0
+  index: -1
+btnGold
+  rotate: false
+  xy: 479, 440
+  size: 80, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+btnName
+  rotate: false
+  xy: 570, 485
+  size: 113, 37
+  orig: 113, 37
+  offset: 0, 0
+  index: -1
+btnShare
+  rotate: false
+  xy: 561, 440
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+btnCredits
+  rotate: false
+  xy: 685, 470
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+rifleShdow
+  rotate: false
+  xy: 605, 453
+  size: 77, 30
+  orig: 77, 30
+  offset: 0, 0
+  index: -1
+device-pad
+  rotate: false
+  xy: 605, 353
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+r7
+  rotate: false
+  xy: 870, 299
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+nameBg
+  rotate: false
+  xy: 211, 2
+  size: 328, 33
+  orig: 328, 33
+  offset: 0, 0
+  index: -1
+r8
+  rotate: false
+  xy: 945, 295
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 541, 8
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+s10
+  rotate: false
+  xy: 555, 9
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+s11
+  rotate: false
+  xy: 598, 9
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+btnPistol
+  rotate: false
+  xy: 870, 256
+  size: 139, 37
+  orig: 139, 37
+  offset: 0, 0
+  index: -1
+btnFreeGold
+  rotate: false
+  xy: 870, 166
+  size: 131, 88
+  orig: 131, 88
+  offset: 0, 0
+  index: -1
+device-phone
+  rotate: false
+  xy: 602, 66
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+s12
+  rotate: false
+  xy: 602, 38
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+btnLocked
+  rotate: false
+  xy: 645, 1
+  size: 98, 63
+  orig: 98, 63
+  offset: 0, 0
+  index: -1
+music-off
+  rotate: false
+  xy: 703, 66
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+btnRank
+  rotate: false
+  xy: 745, 1
+  size: 98, 63
+  orig: 98, 63
+  offset: 0, 0
+  index: -1
+music-on
+  rotate: false
+  xy: 804, 66
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+btnMm
+  rotate: false
+  xy: 905, 124
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+shake-off
+  rotate: false
+  xy: 905, 24
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+s13
+  rotate: false
+  xy: 845, 38
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+s14
+  rotate: false
+  xy: 845, 10
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+
+menuUI2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frameStage
+  rotate: false
+  xy: 1, 178
+  size: 398, 306
+  orig: 398, 306
+  offset: 0, 0
+  index: -1
+btnGun
+  rotate: false
+  xy: 1, 101
+  size: 155, 75
+  orig: 155, 75
+  offset: 0, 0
+  index: -1
+shake-on
+  rotate: false
+  xy: 401, 386
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+sound-off
+  rotate: false
+  xy: 1, 1
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+sound-on
+  rotate: false
+  xy: 401, 286
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+btnMore
+  rotate: false
+  xy: 401, 187
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 158, 84
+  size: 79, 92
+  orig: 79, 92
+  offset: 0, 0
+  index: -1
+btnTop
+  rotate: false
+  xy: 239, 136
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+s15
+  rotate: false
+  xy: 102, 73
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+s16
+  rotate: false
+  xy: 239, 108
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1

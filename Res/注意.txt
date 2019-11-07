@@ -1,0 +1,13 @@
+文件目录结构
+Armatures：所有动画文件统一导出这到
+Map:地图
+Particle:程序用的所有粒子
+ActionScript:所有角色的动作脚本
+Bullets：子弹配置文件
+Levels：关卡配置文件
+UI：UI资源
+
+注意：所有自定义的文本文件统一要用utf-8 无bom格式
+（如Levels,ActionScript,Bullets下的文件），否则可
+能有问题
+

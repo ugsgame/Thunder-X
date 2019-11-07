@@ -1,0 +1,4 @@
+把需要转换的.pack文件和对应的.png或.jpg放在pack目录下，然后双击pack转plist.jar文件，自动在out目录下生成plist文件
+
+更新说明
+1、修改了一个pack包对应两图片的问题
