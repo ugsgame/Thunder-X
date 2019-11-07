@@ -1,0 +1,11 @@
+bg3_2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 511, 843
+  orig: 511, 843
+  offset: 0, 0
+  index: -1

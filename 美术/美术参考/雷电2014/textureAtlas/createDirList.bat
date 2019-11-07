@@ -1,0 +1,1 @@
+dir /b/a-d-s-h-r/on *.pack > list.txt

@@ -1,0 +1,11 @@
+ui_nightSkyBg.jpg
+format: RGB565
+filter: Linear,Linear
+repeat: none
+002
+  rotate: false
+  xy: 2, 2
+  size: 512, 848
+  orig: 512, 848
+  offset: 0, 0
+  index: -1

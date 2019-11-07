@@ -1,0 +1,67 @@
+ui_achievement.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+009
+  rotate: false
+  xy: 359, 133
+  size: 400, 39
+  orig: 400, 39
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 283, 2
+  size: 375, 75
+  orig: 375, 75
+  offset: 0, 0
+  index: -1
+010
+  rotate: false
+  xy: 359, 81
+  size: 400, 48
+  orig: 400, 48
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 283, 81
+  size: 72, 60
+  orig: 72, 60
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 763, 2
+  size: 98, 45
+  orig: 98, 45
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 2, 2
+  size: 277, 142
+  orig: 277, 142
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 2, 148
+  size: 220, 20
+  orig: 220, 20
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 662, 2
+  size: 92, 48
+  orig: 92, 48
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 226, 148
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,67 @@
+zuheji.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+007
+  rotate: false
+  xy: 275, 0
+  size: 94, 152
+  orig: 94, 152
+  offset: 0, 0
+  index: -1
+008
+  rotate: false
+  xy: 210, 86
+  size: 52, 113
+  orig: 52, 113
+  offset: 0, 0
+  index: -1
+009
+  rotate: false
+  xy: 263, 153
+  size: 110, 87
+  orig: 110, 87
+  offset: 0, 0
+  index: -1
+001
+  rotate: false
+  xy: 0, 83
+  size: 107, 142
+  orig: 107, 142
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 370, 0
+  size: 65, 111
+  orig: 65, 111
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 0, 0
+  size: 141, 82
+  orig: 141, 82
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 108, 86
+  size: 101, 146
+  orig: 101, 146
+  offset: 0, 0
+  index: -1
+005
+  rotate: false
+  xy: 374, 112
+  size: 62, 110
+  orig: 62, 110
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 142, 0
+  size: 132, 85
+  orig: 132, 85
+  offset: 0, 0
+  index: -1

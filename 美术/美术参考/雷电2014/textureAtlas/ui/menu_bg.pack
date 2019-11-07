@@ -1,0 +1,11 @@
+menu_bg.jpg
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 2, 2
+  size: 480, 848
+  orig: 480, 848
+  offset: 0, 0
+  index: -1

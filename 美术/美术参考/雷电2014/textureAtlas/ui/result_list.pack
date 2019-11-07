@@ -1,0 +1,46 @@
+result_list.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 423, 2
+  size: 224, 53
+  orig: 224, 53
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 651, 2
+  size: 194, 40
+  orig: 194, 40
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 423, 59
+  size: 92, 38
+  orig: 92, 38
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 519, 59
+  size: 90, 32
+  orig: 90, 32
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 613, 59
+  size: 240, 28
+  orig: 240, 28
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 2
+  size: 417, 112
+  orig: 417, 112
+  offset: 0, 0
+  index: -1

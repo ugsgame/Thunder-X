@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGuidesProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GuidesProject>
+    <Project>UI_1</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_GamePause</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_GameWin</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_GamePlaying</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_Loading</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_Templates</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_PlayerSelecting</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_MainMenu</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_LevelSelecting</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_WingmanSelecting</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_PlayerLevelUp</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_GameStore</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_RankingList</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_LevelPages</Project>
+    <GuidesList>
+      <GuidesInfo>
+        <GuidesName>HThumb</GuidesName>
+        <GuidesPosition>522.67331044514981</GuidesPosition>
+      </GuidesInfo>
+      <GuidesInfo>
+        <GuidesName>HThumb</GuidesName>
+        <GuidesPosition>341.67331044514981</GuidesPosition>
+      </GuidesInfo>
+    </GuidesList>
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_CrossLottery</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_GameAbout</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_GameResurrection</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_SupplySkill</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_SupplyPower</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_GameVIP</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_GameExit</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_ResumeTimer</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_SupplyShield</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_SupplyGolds</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_LotteryResult</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_RichGift</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_SimulateSDK</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UI_SuppriseGift</Project>
+    <GuidesList />
+  </GuidesProject>
+</ArrayOfGuidesProject>

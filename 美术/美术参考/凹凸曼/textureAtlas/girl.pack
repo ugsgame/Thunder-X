@@ -1,0 +1,32 @@
+girl.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face
+  rotate: false
+  xy: 2, 2
+  size: 227, 482
+  orig: 227, 482
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 2, 486
+  size: 118, 56
+  orig: 118, 56
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 122, 486
+  size: 117, 49
+  orig: 117, 49
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 122, 537
+  size: 113, 29
+  orig: 113, 29
+  offset: 0, 0
+  index: -1

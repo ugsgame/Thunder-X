@@ -1,0 +1,18 @@
+bg_bonus_dec.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+002
+  rotate: false
+  xy: 2, 2
+  size: 181, 480
+  orig: 181, 480
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 2, 486
+  size: 140, 480
+  orig: 140, 480
+  offset: 0, 0
+  index: -1

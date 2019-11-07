@@ -1,0 +1,46 @@
+ui_leader_board.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+007
+  rotate: false
+  xy: 767, 30
+  size: 180, 20
+  orig: 180, 20
+  offset: 0, 0
+  index: -1
+008
+  rotate: false
+  xy: 192, 2
+  size: 186, 64
+  orig: 186, 64
+  offset: 0, 0
+  index: -1
+010
+  rotate: false
+  xy: 2, 2
+  size: 186, 64
+  orig: 186, 64
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 382, 40
+  size: 381, 34
+  orig: 381, 34
+  offset: 0, 0
+  index: -1
+005
+  rotate: false
+  xy: 382, 2
+  size: 381, 34
+  orig: 381, 34
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 767, 2
+  size: 200, 24
+  orig: 200, 24
+  offset: 0, 0
+  index: -1

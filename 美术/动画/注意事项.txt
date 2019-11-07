@@ -1,0 +1,4 @@
+1 动画资源图片资源统一用TexturePack打包好的plis图片（这样可以共用资源，又易于管理）
+2 粒子效果统于放到Particles文件夹
+3 发射点 Emit1，Emit2，Emit3，Emit4，Emit5，Emit6，Emit7，Emit8，Emit9，Emit10
+4 爆炸效果分三个，boss 小怪 精英怪 ，命名 bomb_boss bomb_enemy  bomb_elite

@@ -1,0 +1,32 @@
+magic_plane_bg.jpg
+format: RGB565
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 1243, 1
+  size: 412, 235
+  orig: 412, 235
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 829, 1
+  size: 412, 235
+  orig: 412, 235
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 415, 1
+  size: 412, 235
+  orig: 412, 235
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 1, 1
+  size: 412, 235
+  orig: 412, 235
+  offset: 0, 0
+  index: -1

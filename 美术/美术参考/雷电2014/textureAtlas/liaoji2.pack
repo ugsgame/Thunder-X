@@ -1,0 +1,18 @@
+liaoji2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 22, 0
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 0, 0
+  size: 21, 47
+  orig: 21, 47
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,60 @@
+ui_rank_count.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+007
+  rotate: false
+  xy: 599, 108
+  size: 137, 72
+  orig: 145, 80
+  offset: 4, 3
+  index: -1
+008
+  rotate: false
+  xy: 738, 95
+  size: 157, 82
+  orig: 171, 84
+  offset: 6, 0
+  index: -1
+010
+  rotate: false
+  xy: 458, 2
+  size: 240, 104
+  orig: 240, 104
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 827, 27
+  size: 145, 52
+  orig: 145, 52
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 700, 27
+  size: 125, 66
+  orig: 145, 80
+  offset: 10, 12
+  index: -1
+004
+  rotate: false
+  xy: 458, 108
+  size: 139, 72
+  orig: 171, 84
+  offset: 15, 10
+  index: -1
+005
+  rotate: false
+  xy: 738, 2
+  size: 230, 23
+  orig: 230, 23
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 2, 2
+  size: 454, 178
+  orig: 468, 180
+  offset: 6, 0
+  index: -1

@@ -1,0 +1,165 @@
+belial.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+020
+  rotate: false
+  xy: 185, 141
+  size: 67, 149
+  orig: 67, 149
+  offset: 0, 0
+  index: -1
+018
+  rotate: false
+  xy: 2, 1127
+  size: 73, 147
+  orig: 73, 147
+  offset: 0, 0
+  index: -1
+014
+  rotate: false
+  xy: 115, 420
+  size: 107, 135
+  orig: 107, 135
+  offset: 0, 0
+  index: -1
+010
+  rotate: false
+  xy: 2, 140
+  size: 93, 135
+  orig: 93, 135
+  offset: 0, 0
+  index: -1
+008
+  rotate: false
+  xy: 2, 2
+  size: 118, 134
+  orig: 118, 134
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 87, 280
+  size: 92, 136
+  orig: 92, 136
+  offset: 0, 0
+  index: -1
+021
+  rotate: false
+  xy: 79, 1128
+  size: 80, 148
+  orig: 80, 148
+  offset: 0, 0
+  index: -1
+019
+  rotate: false
+  xy: 166, 980
+  size: 84, 146
+  orig: 84, 146
+  offset: 0, 0
+  index: -1
+015
+  rotate: false
+  xy: 2, 559
+  size: 117, 135
+  orig: 117, 135
+  offset: 0, 0
+  index: -1
+011
+  rotate: false
+  xy: 99, 141
+  size: 82, 135
+  orig: 82, 135
+  offset: 0, 0
+  index: -1
+009
+  rotate: false
+  xy: 124, 2
+  size: 108, 135
+  orig: 108, 135
+  offset: 0, 0
+  index: -1
+005
+  rotate: false
+  xy: 123, 559
+  size: 113, 136
+  orig: 113, 136
+  offset: 0, 0
+  index: -1
+001
+  rotate: false
+  xy: 2, 838
+  size: 77, 138
+  orig: 77, 138
+  offset: 0, 0
+  index: -1
+022
+  rotate: false
+  xy: 83, 980
+  size: 79, 144
+  orig: 79, 144
+  offset: 0, 0
+  index: -1
+016
+  rotate: false
+  xy: 2, 698
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+012
+  rotate: false
+  xy: 2, 279
+  size: 81, 135
+  orig: 81, 135
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 83, 839
+  size: 132, 137
+  orig: 132, 137
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 2, 1280
+  size: 121, 147
+  orig: 121, 147
+  offset: 0, 0
+  index: -1
+023
+  rotate: false
+  xy: 2, 980
+  size: 77, 143
+  orig: 77, 143
+  offset: 0, 0
+  index: -1
+017
+  rotate: false
+  xy: 163, 1130
+  size: 84, 150
+  orig: 84, 150
+  offset: 0, 0
+  index: -1
+013
+  rotate: false
+  xy: 2, 420
+  size: 109, 135
+  orig: 109, 135
+  offset: 0, 0
+  index: -1
+007
+  rotate: false
+  xy: 106, 699
+  size: 125, 136
+  orig: 125, 136
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 127, 1284
+  size: 88, 151
+  orig: 88, 151
+  offset: 0, 0
+  index: -1

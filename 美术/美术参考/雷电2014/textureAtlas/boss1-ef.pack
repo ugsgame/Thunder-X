@@ -1,0 +1,116 @@
+boss1-ef.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+007
+  rotate: false
+  xy: 0, 117
+  size: 88, 116
+  orig: 88, 116
+  offset: 0, 0
+  index: -1
+008
+  rotate: false
+  xy: 234, 0
+  size: 28, 99
+  orig: 28, 99
+  offset: 0, 0
+  index: -1
+009
+  rotate: false
+  xy: 176, 198
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+010
+  rotate: false
+  xy: 229, 117
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+000
+  rotate: false
+  xy: 174, 0
+  size: 59, 116
+  orig: 59, 116
+  offset: 0, 0
+  index: -1
+011
+  rotate: false
+  xy: 176, 117
+  size: 52, 80
+  orig: 52, 80
+  offset: 0, 0
+  index: -1
+001
+  rotate: false
+  xy: 0, 0
+  size: 89, 116
+  orig: 89, 116
+  offset: 0, 0
+  index: -1
+012
+  rotate: false
+  xy: 315, 80
+  size: 48, 84
+  orig: 48, 84
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 286, 102
+  size: 26, 54
+  orig: 26, 54
+  offset: 0, 0
+  index: -1
+013
+  rotate: false
+  xy: 237, 182
+  size: 45, 68
+  orig: 45, 68
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 90, 0
+  size: 83, 116
+  orig: 83, 116
+  offset: 0, 0
+  index: -1
+014
+  rotate: false
+  xy: 326, 0
+  size: 45, 79
+  orig: 45, 79
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 326, 165
+  size: 28, 85
+  orig: 28, 85
+  offset: 0, 0
+  index: -1
+015
+  rotate: false
+  xy: 283, 182
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+005
+  rotate: false
+  xy: 89, 117
+  size: 86, 116
+  orig: 86, 116
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 286, 0
+  size: 28, 101
+  orig: 28, 101
+  offset: 0, 0
+  index: -1

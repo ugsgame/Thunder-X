@@ -1,0 +1,53 @@
+evaluation.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+007
+  rotate: false
+  xy: 139, 73
+  size: 92, 50
+  orig: 92, 50
+  offset: 0, 0
+  index: -1
+001
+  rotate: false
+  xy: 237, 52
+  size: 165, 69
+  orig: 165, 69
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 1, 1
+  size: 234, 70
+  orig: 234, 70
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 404, 77
+  size: 180, 49
+  orig: 180, 49
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 237, 1
+  size: 180, 49
+  orig: 180, 49
+  offset: 0, 0
+  index: -1
+005
+  rotate: false
+  xy: 1, 73
+  size: 136, 49
+  orig: 136, 49
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 419, 1
+  size: 154, 74
+  orig: 154, 74
+  offset: 0, 0
+  index: -1

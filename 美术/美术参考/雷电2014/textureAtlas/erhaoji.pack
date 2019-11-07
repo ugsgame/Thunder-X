@@ -1,0 +1,60 @@
+erhaoji.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+007
+  rotate: false
+  xy: 175, 119
+  size: 60, 114
+  orig: 60, 114
+  offset: 0, 0
+  index: -1
+008
+  rotate: false
+  xy: 116, 333
+  size: 56, 112
+  orig: 56, 112
+  offset: 0, 0
+  index: -1
+001
+  rotate: false
+  xy: 2, 324
+  size: 110, 151
+  orig: 110, 151
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 159, 237
+  size: 81, 92
+  orig: 81, 92
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 176, 333
+  size: 66, 91
+  orig: 66, 91
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 2, 2
+  size: 169, 155
+  orig: 169, 155
+  offset: 0, 0
+  index: -1
+005
+  rotate: false
+  xy: 2, 161
+  size: 153, 159
+  orig: 153, 159
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 175, 2
+  size: 67, 113
+  orig: 67, 113
+  offset: 0, 0
+  index: -1

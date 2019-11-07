@@ -1,0 +1,39 @@
+tittle.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+t01
+  rotate: false
+  xy: 1, 1
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+t02
+  rotate: false
+  xy: 196, 1
+  size: 17, 38
+  orig: 17, 38
+  offset: 0, 0
+  index: -1
+t03
+  rotate: false
+  xy: 177, 1
+  size: 17, 38
+  orig: 17, 38
+  offset: 0, 0
+  index: -1
+t04
+  rotate: false
+  xy: 215, 1
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+t05
+  rotate: false
+  xy: 43, 1
+  size: 132, 38
+  orig: 132, 38
+  offset: 0, 0
+  index: -1

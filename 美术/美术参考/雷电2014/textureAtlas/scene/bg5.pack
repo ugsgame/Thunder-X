@@ -1,0 +1,11 @@
+bg5.jpg
+format: RGB565
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 520, 800
+  orig: 520, 800
+  offset: 0, 0
+  index: -1

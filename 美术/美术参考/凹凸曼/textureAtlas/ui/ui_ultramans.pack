@@ -1,0 +1,109 @@
+ui_ultramans.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l1
+  rotate: false
+  xy: 1549, 130
+  size: 63, 28
+  orig: 63, 28
+  offset: 0, 0
+  index: -1
+008
+  rotate: false
+  xy: 167, 2
+  size: 433, 301
+  orig: 433, 301
+  offset: 0, 0
+  index: -1
+l2
+  rotate: false
+  xy: 1549, 98
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+009
+  rotate: false
+  xy: 993, 2
+  size: 408, 294
+  orig: 408, 294
+  offset: 0, 0
+  index: -1
+l3
+  rotate: false
+  xy: 1549, 66
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+l4
+  rotate: false
+  xy: 1549, 2
+  size: 73, 28
+  orig: 73, 28
+  offset: 0, 0
+  index: -1
+l5
+  rotate: false
+  xy: 1549, 34
+  size: 71, 28
+  orig: 71, 28
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 167, 307
+  size: 71, 11
+  orig: 71, 11
+  offset: 0, 0
+  index: -1
+010
+  rotate: false
+  xy: 604, 2
+  size: 385, 295
+  orig: 385, 295
+  offset: 0, 0
+  index: -1
+011
+  rotate: false
+  xy: 2, 2
+  size: 161, 316
+  orig: 161, 316
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 1549, 162
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+022
+  rotate: false
+  xy: 1405, 230
+  size: 140, 72
+  orig: 140, 72
+  offset: 0, 0
+  index: -1
+023
+  rotate: false
+  xy: 1405, 154
+  size: 140, 72
+  orig: 140, 72
+  offset: 0, 0
+  index: -1
+024
+  rotate: false
+  xy: 1405, 78
+  size: 140, 72
+  orig: 140, 72
+  offset: 0, 0
+  index: -1
+025
+  rotate: false
+  xy: 1405, 2
+  size: 140, 72
+  orig: 140, 72
+  offset: 0, 0
+  index: -1

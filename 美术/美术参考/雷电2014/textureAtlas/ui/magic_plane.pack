@@ -1,0 +1,145 @@
+
+magic_plane.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+015
+  rotate: false
+  xy: 1, 187
+  size: 380, 40
+  orig: 380, 40
+  offset: 0, 0
+  index: -1
+013
+  rotate: false
+  xy: 1, 150
+  size: 363, 35
+  orig: 363, 35
+  offset: 0, 0
+  index: -1
+014
+  rotate: false
+  xy: 383, 192
+  size: 363, 35
+  orig: 363, 35
+  offset: 0, 0
+  index: -1
+017
+  rotate: false
+  xy: 1, 123
+  size: 240, 25
+  orig: 240, 25
+  offset: 0, 0
+  index: -1
+010
+  rotate: false
+  xy: 1, 6
+  size: 126, 115
+  orig: 126, 115
+  offset: 0, 0
+  index: -1
+011
+  rotate: false
+  xy: 129, 6
+  size: 126, 115
+  orig: 126, 115
+  offset: 0, 0
+  index: -1
+029
+  rotate: false
+  xy: 748, 158
+  size: 165, 69
+  orig: 165, 69
+  offset: 0, 0
+  index: -1
+012
+  rotate: false
+  xy: 257, 33
+  size: 126, 115
+  orig: 126, 115
+  offset: 0, 0
+  index: -1
+010-2
+  rotate: false
+  xy: 385, 120
+  size: 123, 70
+  orig: 123, 70
+  offset: 0, 0
+  index: -1
+011-2
+  rotate: false
+  xy: 385, 48
+  size: 123, 70
+  orig: 123, 70
+  offset: 0, 0
+  index: -1
+012-2
+  rotate: false
+  xy: 510, 120
+  size: 123, 70
+  orig: 123, 70
+  offset: 0, 0
+  index: -1
+005
+  rotate: false
+  xy: 510, 1
+  size: 48, 117
+  orig: 48, 117
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 560, 9
+  size: 30, 109
+  orig: 30, 109
+  offset: 0, 0
+  index: -1
+007
+  rotate: false
+  xy: 592, 9
+  size: 30, 109
+  orig: 30, 109
+  offset: 0, 0
+  index: -1
+008
+  rotate: false
+  xy: 624, 9
+  size: 30, 109
+  orig: 30, 109
+  offset: 0, 0
+  index: -1
+016
+  rotate: false
+  xy: 915, 198
+  size: 68, 29
+  orig: 68, 29
+  offset: 0, 0
+  index: -1
+010-3
+  rotate: false
+  xy: 635, 144
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+011-3
+  rotate: false
+  xy: 683, 144
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+012-3
+  rotate: false
+  xy: 915, 150
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+009
+  rotate: false
+  xy: 985, 187
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1

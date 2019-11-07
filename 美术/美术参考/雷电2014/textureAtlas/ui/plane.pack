@@ -1,0 +1,74 @@
+plane.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+018
+  rotate: false
+  xy: 280, 2
+  size: 274, 155
+  orig: 274, 155
+  offset: 0, 0
+  index: -1
+020
+  rotate: false
+  xy: 2, 2
+  size: 274, 155
+  orig: 274, 155
+  offset: 0, 0
+  index: -1
+010
+  rotate: false
+  xy: 1392, 116
+  size: 101, 34
+  orig: 101, 34
+  offset: 0, 0
+  index: -1
+021
+  rotate: false
+  xy: 1392, 40
+  size: 113, 34
+  orig: 113, 34
+  offset: 0, 0
+  index: -1
+011
+  rotate: false
+  xy: 1497, 78
+  size: 101, 34
+  orig: 101, 34
+  offset: 0, 0
+  index: -1
+012
+  rotate: false
+  xy: 1392, 78
+  size: 101, 34
+  orig: 101, 34
+  offset: 0, 0
+  index: -1
+013
+  rotate: false
+  xy: 1392, 2
+  size: 114, 34
+  orig: 114, 34
+  offset: 0, 0
+  index: -1
+015
+  rotate: false
+  xy: 1114, 2
+  size: 274, 155
+  orig: 274, 155
+  offset: 0, 0
+  index: -1
+016
+  rotate: false
+  xy: 836, 2
+  size: 274, 155
+  orig: 274, 155
+  offset: 0, 0
+  index: -1
+017
+  rotate: false
+  xy: 558, 2
+  size: 274, 155
+  orig: 274, 155
+  offset: 0, 0
+  index: -1

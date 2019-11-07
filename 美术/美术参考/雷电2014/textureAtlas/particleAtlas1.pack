@@ -1,0 +1,74 @@
+particleAtlas1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibangg
+  rotate: false
+  xy: 438, 262
+  size: 300, 228
+  orig: 300, 228
+  offset: 0, 0
+  index: -1
+chibangb
+  rotate: false
+  xy: 2, 115
+  size: 300, 241
+  orig: 300, 241
+  offset: 0, 0
+  index: -1
+chibangr
+  rotate: false
+  xy: 742, 262
+  size: 260, 220
+  orig: 260, 220
+  offset: 0, 0
+  index: -1
+chibangy
+  rotate: false
+  xy: 455, 2
+  size: 350, 256
+  orig: 350, 256
+  offset: 0, 0
+  index: -1
+ui011
+  rotate: false
+  xy: 284, 379
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+comingsoon1
+  rotate: false
+  xy: 2, 2
+  size: 449, 109
+  orig: 449, 109
+  offset: 0, 0
+  index: -1
+comingsoon2
+  rotate: false
+  xy: 2, 360
+  size: 278, 70
+  orig: 278, 70
+  offset: 0, 0
+  index: -1
+001
+  rotate: false
+  xy: 809, 2
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 306, 247
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+planesheild
+  rotate: false
+  xy: 306, 115
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

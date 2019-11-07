@@ -1,0 +1,11 @@
+bg2.jpg
+format: RGB888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 520, 892
+  orig: 520, 892
+  offset: 0, 0
+  index: -1

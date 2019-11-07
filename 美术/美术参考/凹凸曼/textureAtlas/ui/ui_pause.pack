@@ -1,0 +1,67 @@
+ui_pause.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+007
+  rotate: false
+  xy: 2, 2
+  size: 254, 118
+  orig: 254, 118
+  offset: 0, 0
+  index: -1
+008
+  rotate: false
+  xy: 2, 124
+  size: 170, 178
+  orig: 170, 178
+  offset: 0, 0
+  index: -1
+001
+  rotate: false
+  xy: 2, 306
+  size: 170, 178
+  orig: 170, 178
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 260, 2
+  size: 234, 98
+  orig: 234, 98
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 176, 296
+  size: 214, 92
+  orig: 214, 92
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 260, 104
+  size: 214, 92
+  orig: 214, 92
+  offset: 0, 0
+  index: -1
+004-2
+  rotate: false
+  xy: 176, 200
+  size: 214, 92
+  orig: 214, 92
+  offset: 0, 0
+  index: -1
+005
+  rotate: false
+  xy: 343, 392
+  size: 163, 105
+  orig: 163, 105
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 176, 392
+  size: 163, 105
+  orig: 163, 105
+  offset: 0, 0
+  index: -1

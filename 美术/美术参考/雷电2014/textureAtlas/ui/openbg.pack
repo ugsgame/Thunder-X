@@ -1,0 +1,11 @@
+openbg.jpg
+format: RGB565
+filter: Linear,Linear
+repeat: none
+open
+  rotate: false
+  xy: 2, 2
+  size: 480, 848
+  orig: 480, 848
+  offset: 0, 0
+  index: -1

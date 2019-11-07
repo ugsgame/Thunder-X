@@ -1,0 +1,18 @@
+ui_about.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 555
+  size: 135, 64
+  orig: 135, 64
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 340, 551
+  orig: 340, 551
+  offset: 0, 0
+  index: -1

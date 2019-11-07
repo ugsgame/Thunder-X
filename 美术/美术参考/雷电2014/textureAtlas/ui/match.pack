@@ -1,0 +1,32 @@
+match.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 198, 2
+  size: 404, 148
+  orig: 404, 148
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 606, 2
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 2
+  size: 192, 190
+  orig: 192, 190
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 198, 154
+  size: 339, 52
+  orig: 339, 52
+  offset: 0, 0
+  index: -1

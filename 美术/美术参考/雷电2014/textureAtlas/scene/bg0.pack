@@ -1,0 +1,12 @@
+
+bg0.jpg
+format: RGB565
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 1, 1
+  size: 520, 800
+  orig: 520, 800
+  offset: 0, 0
+  index: -1

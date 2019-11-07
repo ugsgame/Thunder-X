@@ -1,0 +1,18 @@
+dec1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 220, 372
+  orig: 220, 372
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 376
+  size: 211, 366
+  orig: 211, 366
+  offset: 0, 0
+  index: -1

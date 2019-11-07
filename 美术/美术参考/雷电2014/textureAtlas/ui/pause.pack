@@ -1,0 +1,67 @@
+pause.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+007
+  rotate: false
+  xy: 476, 1
+  size: 238, 82
+  orig: 238, 82
+  offset: 0, 0
+  index: -1
+001
+  rotate: false
+  xy: 179, 163
+  size: 176, 73
+  orig: 176, 73
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 1, 163
+  size: 176, 73
+  orig: 176, 73
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 476, 85
+  size: 176, 73
+  orig: 176, 73
+  offset: 0, 0
+  index: -1
+003-2
+  rotate: false
+  xy: 654, 160
+  size: 176, 73
+  orig: 176, 73
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 1, 82
+  size: 473, 79
+  orig: 473, 79
+  offset: 0, 0
+  index: -1
+003-3
+  rotate: false
+  xy: 476, 160
+  size: 176, 73
+  orig: 176, 73
+  offset: 0, 0
+  index: -1
+005
+  rotate: false
+  xy: 1, 1
+  size: 473, 79
+  orig: 473, 79
+  offset: 0, 0
+  index: -1
+003-4
+  rotate: false
+  xy: 654, 85
+  size: 176, 73
+  orig: 176, 73
+  offset: 0, 0
+  index: -1

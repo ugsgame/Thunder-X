@@ -1,0 +1,74 @@
+pklogo.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pklogo10
+  rotate: false
+  xy: 2, 2
+  size: 449, 256
+  orig: 449, 256
+  offset: 0, 0
+  index: -1
+pklogo8
+  rotate: false
+  xy: 412, 262
+  size: 406, 210
+  orig: 406, 210
+  offset: 0, 0
+  index: -1
+pklogo9
+  rotate: false
+  xy: 2, 262
+  size: 406, 210
+  orig: 406, 210
+  offset: 0, 0
+  index: -1
+pklogo6
+  rotate: false
+  xy: 822, 216
+  size: 406, 210
+  orig: 406, 210
+  offset: 0, 0
+  index: -1
+pklogo7
+  rotate: false
+  xy: 455, 2
+  size: 406, 210
+  orig: 406, 210
+  offset: 0, 0
+  index: -1
+pklogo4
+  rotate: false
+  xy: 1275, 2
+  size: 406, 210
+  orig: 406, 210
+  offset: 0, 0
+  index: -1
+pklogo5
+  rotate: false
+  xy: 865, 2
+  size: 406, 210
+  orig: 406, 210
+  offset: 0, 0
+  index: -1
+pklogo2
+  rotate: false
+  xy: 1232, 216
+  size: 406, 210
+  orig: 406, 210
+  offset: 0, 0
+  index: -1
+pklogo3
+  rotate: false
+  xy: 822, 430
+  size: 406, 210
+  orig: 406, 210
+  offset: 0, 0
+  index: -1
+pklogo1
+  rotate: false
+  xy: 1232, 430
+  size: 406, 210
+  orig: 406, 210
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,109 @@
+worldrank.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+007
+  rotate: false
+  xy: 2, 806
+  size: 409, 61
+  orig: 409, 61
+  offset: 0, 0
+  index: -1
+008
+  rotate: false
+  xy: 2, 871
+  size: 389, 40
+  orig: 389, 40
+  offset: 0, 0
+  index: -1
+009
+  rotate: false
+  xy: 230, 1042
+  size: 214, 24
+  orig: 214, 24
+  offset: 0, 0
+  index: -1
+item
+  rotate: false
+  xy: 2, 920
+  size: 328, 30
+  orig: 328, 30
+  offset: 0, 0
+  index: -1
+tiltlepk
+  rotate: false
+  xy: 2, 1027
+  size: 224, 53
+  orig: 224, 53
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 2, 954
+  size: 263, 69
+  orig: 263, 69
+  offset: 0, 0
+  index: -1
+010
+  rotate: false
+  xy: 2, 915
+  size: 395, 1
+  orig: 395, 1
+  offset: 0, 0
+  index: -1
+011
+  rotate: false
+  xy: 269, 954
+  size: 194, 40
+  orig: 194, 40
+  offset: 0, 0
+  index: -1
+001
+  rotate: false
+  xy: 2, 2
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 230, 1070
+  size: 126, 32
+  orig: 126, 32
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 451, 858
+  size: 16, 60
+  orig: 16, 60
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 269, 998
+  size: 194, 40
+  orig: 194, 40
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 395, 871
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+005
+  rotate: false
+  xy: 415, 806
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 360, 1070
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1

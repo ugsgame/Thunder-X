@@ -1,0 +1,88 @@
+rankup.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+007
+  rotate: false
+  xy: 1, 146
+  size: 359, 102
+  orig: 359, 102
+  offset: 0, 0
+  index: -1
+008
+  rotate: false
+  xy: 407, 59
+  size: 229, 67
+  orig: 229, 67
+  offset: 0, 0
+  index: -1
+009
+  rotate: false
+  xy: 362, 188
+  size: 151, 58
+  orig: 151, 58
+  offset: 0, 0
+  index: -1
+010
+  rotate: false
+  xy: 407, 128
+  size: 151, 58
+  orig: 151, 58
+  offset: 0, 0
+  index: -1
+011
+  rotate: false
+  xy: 638, 77
+  size: 150, 20
+  orig: 150, 20
+  offset: 0, 0
+  index: -1
+001
+  rotate: false
+  xy: 659, 1
+  size: 96, 74
+  orig: 96, 74
+  offset: 0, 0
+  index: -1
+012
+  rotate: false
+  xy: 407, 1
+  size: 250, 56
+  orig: 250, 56
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 560, 128
+  size: 93, 81
+  orig: 93, 81
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 655, 99
+  size: 77, 64
+  orig: 77, 64
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 1, 1
+  size: 404, 143
+  orig: 404, 143
+  offset: 0, 0
+  index: -1
+005
+  rotate: false
+  xy: 717, 165
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 655, 165
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1

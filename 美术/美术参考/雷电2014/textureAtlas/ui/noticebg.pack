@@ -1,0 +1,18 @@
+noticebg.jpg
+format: RGB565
+filter: Linear,Linear
+repeat: none
+12
+  rotate: false
+  xy: 2, 2
+  size: 360, 420
+  orig: 360, 420
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 366, 2
+  size: 360, 420
+  orig: 360, 420
+  offset: 0, 0
+  index: -1

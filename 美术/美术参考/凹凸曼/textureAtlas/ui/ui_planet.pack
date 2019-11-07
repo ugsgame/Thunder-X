@@ -1,0 +1,32 @@
+ui_planet.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+011
+  rotate: false
+  xy: 598, 2
+  size: 392, 392
+  orig: 392, 392
+  offset: 0, 0
+  index: -1
+012
+  rotate: false
+  xy: 992, 2
+  size: 241, 241
+  orig: 241, 241
+  offset: 0, 0
+  index: -1
+013
+  rotate: false
+  xy: 992, 245
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 2, 2
+  size: 594, 445
+  orig: 594, 445
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,11 @@
+ui_continue.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+003
+  rotate: false
+  xy: 2, 2
+  size: 109, 32
+  orig: 109, 32
+  offset: 0, 0
+  index: -1

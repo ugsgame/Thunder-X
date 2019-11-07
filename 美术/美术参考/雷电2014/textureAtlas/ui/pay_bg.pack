@@ -1,0 +1,25 @@
+pay_bg.jpg
+format: RGB565
+filter: Linear,Linear
+repeat: none
+002
+  rotate: false
+  xy: 2, 1096
+  size: 390, 545
+  orig: 390, 545
+  offset: 0, 0
+  index: -1
+005
+  rotate: false
+  xy: 2, 549
+  size: 390, 545
+  orig: 390, 545
+  offset: 0, 0
+  index: -1
+008
+  rotate: false
+  xy: 2, 2
+  size: 390, 545
+  orig: 390, 545
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,32 @@
+notice.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 1, 1
+  size: 471, 678
+  orig: 471, 678
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 1, 681
+  size: 150, 53
+  orig: 150, 53
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 153, 702
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 153, 681
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1

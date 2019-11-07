@@ -1,0 +1,53 @@
+achievement.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+018
+  rotate: false
+  xy: 2, 675
+  size: 92, 50
+  orig: 92, 50
+  offset: 0, 0
+  index: -1
+001
+  rotate: false
+  xy: 268, 646
+  size: 165, 69
+  orig: 165, 69
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 2, 573
+  size: 273, 70
+  orig: 273, 70
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 2, 645
+  size: 264, 28
+  orig: 264, 28
+  offset: 0, 0
+  index: -1
+014
+  rotate: false
+  xy: 2, 2
+  size: 433, 504
+  orig: 433, 504
+  offset: 0, 0
+  index: -1
+015
+  rotate: false
+  xy: 2, 508
+  size: 378, 63
+  orig: 378, 63
+  offset: 0, 0
+  index: -1
+017
+  rotate: false
+  xy: 277, 573
+  size: 87, 71
+  orig: 87, 71
+  offset: 0, 0
+  index: -1

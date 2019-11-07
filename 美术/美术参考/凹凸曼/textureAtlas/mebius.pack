@@ -1,0 +1,172 @@
+mebius.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+020
+  rotate: false
+  xy: 165, 2
+  size: 84, 136
+  orig: 84, 136
+  offset: 0, 0
+  index: -1
+018
+  rotate: false
+  xy: 253, 2
+  size: 65, 136
+  orig: 65, 136
+  offset: 0, 0
+  index: -1
+014
+  rotate: false
+  xy: 855, 2
+  size: 88, 124
+  orig: 88, 124
+  offset: 0, 0
+  index: -1
+010
+  rotate: false
+  xy: 1903, 2
+  size: 69, 115
+  orig: 69, 115
+  offset: 0, 0
+  index: -1
+008
+  rotate: false
+  xy: 1749, 2
+  size: 77, 116
+  orig: 77, 116
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 1152, 2
+  size: 105, 116
+  orig: 105, 116
+  offset: 0, 0
+  index: -1
+021
+  rotate: false
+  xy: 2, 2
+  size: 84, 138
+  orig: 84, 138
+  offset: 0, 0
+  index: -1
+019
+  rotate: false
+  xy: 522, 2
+  size: 76, 135
+  orig: 76, 135
+  offset: 0, 0
+  index: -1
+015
+  rotate: false
+  xy: 674, 2
+  size: 68, 135
+  orig: 68, 135
+  offset: 0, 0
+  index: -1
+011
+  rotate: false
+  xy: 1569, 2
+  size: 88, 116
+  orig: 88, 116
+  offset: 0, 0
+  index: -1
+009
+  rotate: false
+  xy: 1830, 2
+  size: 69, 116
+  orig: 69, 116
+  offset: 0, 0
+  index: -1
+005
+  rotate: false
+  xy: 1041, 2
+  size: 107, 116
+  orig: 107, 116
+  offset: 0, 0
+  index: -1
+001
+  rotate: false
+  xy: 422, 2
+  size: 96, 135
+  orig: 96, 135
+  offset: 0, 0
+  index: -1
+022
+  rotate: false
+  xy: 322, 2
+  size: 96, 135
+  orig: 96, 135
+  offset: 0, 0
+  index: -1
+016
+  rotate: false
+  xy: 602, 2
+  size: 68, 135
+  orig: 68, 135
+  offset: 0, 0
+  index: -1
+012
+  rotate: false
+  xy: 1569, 2
+  size: 88, 116
+  orig: 88, 116
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 1366, 2
+  size: 100, 116
+  orig: 100, 116
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 746, 2
+  size: 105, 124
+  orig: 105, 124
+  offset: 0, 0
+  index: -1
+023
+  rotate: false
+  xy: 1976, 2
+  size: 66, 112
+  orig: 66, 112
+  offset: 0, 0
+  index: -1
+017
+  rotate: false
+  xy: 90, 2
+  size: 71, 137
+  orig: 71, 137
+  offset: 0, 0
+  index: -1
+013
+  rotate: false
+  xy: 1470, 2
+  size: 95, 116
+  orig: 95, 116
+  offset: 0, 0
+  index: -1
+007
+  rotate: false
+  xy: 1661, 2
+  size: 84, 116
+  orig: 84, 116
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 1261, 2
+  size: 101, 116
+  orig: 101, 116
+  offset: 0, 0
+  index: -1
+024
+  rotate: false
+  xy: 947, 2
+  size: 90, 117
+  orig: 90, 117
+  offset: 0, 0
+  index: -1

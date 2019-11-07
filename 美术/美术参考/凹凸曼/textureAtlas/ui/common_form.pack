@@ -1,0 +1,46 @@
+common_form.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 436, 2
+  size: 434, 154
+  orig: 434, 154
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1307, 2
+  size: 425, 93
+  orig: 425, 93
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 874, 128
+  size: 429, 64
+  orig: 429, 64
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 2
+  size: 430, 186
+  orig: 430, 186
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1307, 99
+  size: 423, 101
+  orig: 423, 101
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 874, 2
+  size: 412, 122
+  orig: 412, 122
+  offset: 0, 0
+  index: -1

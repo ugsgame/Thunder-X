@@ -1,0 +1,11 @@
+strenthen_plane_bg.jpg
+format: RGB565
+filter: Linear,Linear
+repeat: none
+024
+  rotate: false
+  xy: 1, 1
+  size: 480, 583
+  orig: 480, 583
+  offset: 0, 0
+  index: -1

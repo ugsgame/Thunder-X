@@ -1,0 +1,179 @@
+boss16.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 63, 574
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+52
+  rotate: false
+  xy: 64, 523
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+73
+  rotate: false
+  xy: 80, 281
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+17!
+  rotate: false
+  xy: 57, 825
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+16!
+  rotate: false
+  xy: 2, 272
+  size: 74, 70
+  orig: 74, 70
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 60, 738
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 2
+  size: 108, 167
+  orig: 108, 167
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 60, 623
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+53
+  rotate: false
+  xy: 64, 472
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+15!
+  rotate: false
+  xy: 77, 412
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+14!
+  rotate: false
+  xy: 80, 337
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 825
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 346
+  size: 71, 122
+  orig: 71, 122
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 57, 880
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 82, 173
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+71
+  rotate: false
+  xy: 82, 252
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 77, 376
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 173
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 539
+  size: 57, 78
+  orig: 57, 78
+  offset: 0, 0
+  index: -1
+51
+  rotate: false
+  xy: 60, 687
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+72
+  rotate: false
+  xy: 80, 309
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+19!
+  rotate: false
+  xy: 2, 757
+  size: 54, 64
+  orig: 54, 64
+  offset: 0, 0
+  index: -1
+18!
+  rotate: false
+  xy: 2, 472
+  size: 58, 63
+  orig: 58, 63
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 621
+  size: 54, 132
+  orig: 54, 132
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 82, 222
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

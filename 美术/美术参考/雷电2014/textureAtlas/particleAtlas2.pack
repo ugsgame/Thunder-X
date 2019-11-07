@@ -1,0 +1,165 @@
+particleAtlas2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+logo001
+  rotate: false
+  xy: 1243, 1
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+logo005
+  rotate: false
+  xy: 189, 1
+  size: 186, 186
+  orig: 186, 186
+  offset: 0, 0
+  index: -1
+logo010
+  rotate: false
+  xy: 891, 1
+  size: 350, 157
+  orig: 350, 157
+  offset: 0, 0
+  index: -1
+ranking
+  rotate: false
+  xy: 666, 160
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+logo006
+  rotate: false
+  xy: 1659, 128
+  size: 178, 121
+  orig: 178, 121
+  offset: 0, 0
+  index: -1
+logo002
+  rotate: false
+  xy: 377, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+logo011
+  rotate: false
+  xy: 1, 1
+  size: 186, 186
+  orig: 186, 186
+  offset: 0, 0
+  index: -1
+logo007
+  rotate: false
+  xy: 1659, 1
+  size: 220, 125
+  orig: 220, 125
+  offset: 0, 0
+  index: -1
+043
+  rotate: false
+  xy: 791, 160
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+logo003
+  rotate: false
+  xy: 470, 163
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+logo012
+  rotate: false
+  xy: 539, 1
+  size: 350, 157
+  orig: 350, 157
+  offset: 0, 0
+  index: -1
+075
+  rotate: false
+  xy: 857, 160
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 904, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+logo008
+  rotate: false
+  xy: 293, 189
+  size: 113, 38
+  orig: 113, 38
+  offset: 0, 0
+  index: -1
+arrow2
+  rotate: false
+  xy: 1, 189
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+logo004
+  rotate: false
+  xy: 904, 160
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+017
+  rotate: false
+  xy: 1529, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+thj
+  rotate: false
+  xy: 548, 160
+  size: 116, 87
+  orig: 116, 87
+  offset: 0, 0
+  index: -1
+ui005
+  rotate: false
+  xy: 1399, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xinsholibao1
+  rotate: false
+  xy: 1399, 131
+  size: 119, 104
+  orig: 119, 104
+  offset: 0, 0
+  index: -1
+logo009
+  rotate: false
+  xy: 39, 189
+  size: 252, 46
+  orig: 252, 46
+  offset: 0, 0
+  index: -1
+arrow1
+  rotate: false
+  xy: 408, 163
+  size: 60, 84
+  orig: 60, 84
+  offset: 0, 0
+  index: -1
+0022
+  rotate: false
+  xy: 744, 160
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
