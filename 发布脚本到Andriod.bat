@@ -1,0 +1,2 @@
+copy /y Tech\Resources\ScriptAssemblies\Game.dll  Tech\pro.Android(release)\assets\ScriptAssemblies
+copy /y Tech\Resources\ScriptAssemblies\MatrixEngine.dll  Tech\pro.Android(release)\assets\ScriptAssemblies
