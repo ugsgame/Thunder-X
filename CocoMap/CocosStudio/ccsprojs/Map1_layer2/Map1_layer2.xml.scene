@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<SceneProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>E:\Dev\Thunder-X\CocoMap\CocosStudio\ccsprojs\Map1_layer2</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>E:\Dev\Thunder-X\CocoMap</Resources>
+  <Name>Map1_layer2</Name>
+  <JsonFileName>Map1_layer2.json</JsonFileName>
+  <JsonFolder>E:\Dev\Thunder-X\CocoMap\CocosStudio\assets\publish</JsonFolder>
+  <JsonList />
+  <CanvasSize>
+    <Width>600</Width>
+    <Height>3192</Height>
+  </CanvasSize>
+  <filePath>E:\Dev\Thunder-X\CocoMap\CocosStudio\ccsprojs\Map1_layer2\Map1_layer2.xml.scene</filePath>
+  <ProjectType>SceneProject</ProjectType>
+  <ResRelativePath>\\..\\..\\assets</ResRelativePath>
+  <JSFileList />
+  <DefaultUI_JSList />
+  <Res>E:\Dev\Thunder-X\CocoMap\CocosStudio\assets</Res>
+</SceneProject>

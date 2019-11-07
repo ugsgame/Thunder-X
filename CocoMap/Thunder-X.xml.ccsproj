@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<GameProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>E:\Dev\Thunder-X\CocoMaps</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>E:\Dev\Thunder-X\CocoMaps</Resources>
+  <Name>Thunder-X</Name>
+  <JsonFileName>Thunder-X.json</JsonFileName>
+  <JsonList />
+  <CanvasSize>
+    <Width>480</Width>
+    <Height>320</Height>
+  </CanvasSize>
+  <filePath>E:\Dev\Thunder-X\CocoMaps\Thunder-X.xml.ccsproj</filePath>
+  <ProjectType>GameProject</ProjectType>
+  <ResRelativePath />
+  <ResProjFolder>E:\Dev\Thunder-X\CocoMaps\CocosStudio\ccsprojs</ResProjFolder>
+  <AssetsDir>E:\Dev\Thunder-X\CocoMaps\CocosStudio\assets</AssetsDir>
+  <LanaguageType>cpp</LanaguageType>
+</GameProject>
