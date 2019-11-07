@@ -1,0 +1,5 @@
+D:\Dev\Thunder-X\Tech\Resources\ScriptAssemblies\Game.dll
+D:\Dev\Thunder-X\Tech\Resources\ScriptAssemblies\Game.pdb
+D:\Dev\Thunder-X\Tech\pro.Win32\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\Dev\Thunder-X\Tech\pro.Win32\obj\Debug\Game.dll
+D:\Dev\Thunder-X\Tech\pro.Win32\obj\Debug\Game.pdb

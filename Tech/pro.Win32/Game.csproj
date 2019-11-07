@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6791FCE1-D168-4A40-9F26-3E1C54EC5CF5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Thunder</RootNamespace>
+    <AssemblyName>Game</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\Resources\ScriptAssemblies\</OutputPath>
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>3</WarningLevel>
+    <CustomCommands>
+      <CustomCommands>
+        <Command type="AfterBuild" name="Unity" command="..\Runtime\win32\debug\Unity.exe" workingdir="E:\Dev\CuteCircle\Tech\Resources" externalConsole="True" />
+      </CustomCommands>
+    </CustomCommands>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>True</Optimize>
+    <OutputPath>..\Resources\ScriptAssemblies\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug_UnityDebugger|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>..\Resources\Script\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Matrix_v0.0.2\ScriptLibrary\Mono\lib\mono\2.0\System.Core.dll</HintPath>
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\Config.cs" />
+    <Compile Include="Common\EDebug.cs" />
+    <Compile Include="Common\HashMap.cs" />
+    <Compile Include="Common\UnicodeConverter.cs" />
+    <Compile Include="GameBilling\BillingHelper.cs" />
+    <Compile Include="GameBilling\BillingID.cs" />
+    <Compile Include="GameBilling\BillingWindow.cs" />
+    <Compile Include="GameBilling\BillingIDMM.cs" />
+    <Compile Include="GameBilling\JNIBillingHelper.cs" />
+    <Compile Include="GameBilling\SimulateSDK.cs" />
+    <Compile Include="GameLogic\Common\Function.cs" />
+    <Compile Include="GameLogic\Common\GameAudio.cs" />
+    <Compile Include="GameLogic\Common\GameData.cs" />
+    <Compile Include="GameLogic\Common\GameScene.cs" />
+    <Compile Include="GameLogic\Common\IRunnable.cs" />
+    <Compile Include="GameLogic\Common\NotificationLayer.cs" />
+    <Compile Include="GameLogic\Common\ResID.cs" />
+    <Compile Include="GameLogic\ExternAction\ActionAtlasRolling.cs" />
+    <Compile Include="GameLogic\ExternAction\ActionCircle.cs" />
+    <Compile Include="GameLogic\ExternAction\ActionColorChange.cs" />
+    <Compile Include="GameLogic\ExternAction\ActionLoadingBar.cs" />
+    <Compile Include="GameLogic\ExternAction\ActionMoveFree.cs" />
+    <Compile Include="GameLogic\ExternAction\ActionMoveFreeH.cs" />
+    <Compile Include="GameLogic\ExternAction\ActionMoveFreeV.cs" />
+    <Compile Include="GameLogic\ExternAction\ActionPlayAnimation.cs" />
+    <Compile Include="GameLogic\ExternAction\ActionPlayEffect.cs" />
+    <Compile Include="GameLogic\ExternAction\ActionPlayParticle.cs" />
+    <Compile Include="GameLogic\ExternAction\ActionSetAlpha.cs" />
+    <Compile Include="GameLogic\ExternAction\ActionSetPosition.cs" />
+    <Compile Include="GameLogic\ExternAction\ActionSetScale.cs" />
+    <Compile Include="GameLogic\ExternAction\ActionShake.cs" />
+    <Compile Include="GameLogic\ExternAction\RemoveSelf.cs" />
+    <Compile Include="GameLogic\GameSystem\ActionWindow.cs" />
+    <Compile Include="GameLogic\GameSystem\FontLabel.cs" />
+    <Compile Include="GameLogic\GameSystem\GameWindow.cs" />
+    <Compile Include="GameLogic\GameSystem\InfoShow.cs" />
+    <Compile Include="GameLogic\GameSystem\ScreenSizeWindow.cs" />
+    <Compile Include="GameLogic\GameSystem\UIDocText.cs" />
+    <Compile Include="GameLogic\GameSystem\Window.cs" />
+    <Compile Include="GameLogic\GameSystem\Xml.cs" />
+    <Compile Include="GameLogic\GameSystem\XmlBuilder.cs" />
+    <Compile Include="GameLogic\GameSystem\XmlBuilderD.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Actor.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\ActorID.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Bosses\Boss.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Bosses\Boss1.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\DropHelper.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Drops\Drop.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Drops\DropEmitter.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Drops\DropGem.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Drops\DropBomb.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Drops\DropManager.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Drops\DropPower.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Drops\DropProp.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Drops\DropShield.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Drops\DropSkill.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Drops\DropType.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Enemys\Elite.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Enemys\Enemy.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Enemys\Enemy1.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Players\Player.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Players\Player1.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Players\Player2.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Players\Player3.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Players\Player4.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Spawn.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Wingmen\Wingman.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Wingmen\Wingman1.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Wingmen\Wingman2.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Wingmen\Wingman3.cs" />
+    <Compile Include="GameLogic\Gaming\Actors\Wingmen\Wingman4.cs" />
+    <Compile Include="GameLogic\Gaming\Animable.cs" />
+    <Compile Include="GameLogic\Gaming\ArmatureResManager.cs" />
+    <Compile Include="GameLogic\Gaming\BulletManager.cs" />
+    <Compile Include="GameLogic\Gaming\BulletSystem\Bullet.cs" />
+    <Compile Include="GameLogic\Gaming\BulletSystem\BulletDisplay.cs" />
+    <Compile Include="GameLogic\Gaming\BulletSystem\BulletMode.cs" />
+    <Compile Include="GameLogic\Gaming\BulletSystem\BulletEmitter.cs" />
+    <Compile Include="GameLogic\Gaming\BulletSystem\BulletEffects.cs" />
+    <Compile Include="GameLogic\Gaming\BulletSystem\IBulletEvent.cs" />
+    <Compile Include="GameLogic\Gaming\BulletSpawner.cs" />
+    <Compile Include="GameLogic\Gaming\BulletSystem\BulletSystem.cs" />
+    <Compile Include="GameLogic\Gaming\ColorChange.cs" />
+    <Compile Include="GameLogic\Gaming\EffectSpawner.cs" />
+    <Compile Include="GameLogic\Gaming\EventInfo.cs" />
+    <Compile Include="GameLogic\Gaming\EventSpawner.cs" />
+    <Compile Include="GameLogic\Gaming\Fartory\IWorker.cs" />
+    <Compile Include="GameLogic\Gaming\Fartory\FManager.cs" />
+    <Compile Include="GameLogic\Gaming\FilterType.cs" />
+    <Compile Include="GameLogic\Gaming\GameLayer.cs" />
+    <Compile Include="GameLogic\Gaming\GameMap.cs" />
+    <Compile Include="GameLogic\Gaming\GamePause.cs" />
+    <Compile Include="GameLogic\Gaming\GameWin.cs" />
+    <Compile Include="GameLogic\Gaming\InterfaceGameState.cs" />
+    <Compile Include="GameLogic\Gaming\LevelManager.cs" />
+    <Compile Include="GameLogic\Gaming\PlayerSpawner.cs" />
+    <Compile Include="GameLogic\Gaming\PlayingScene.cs" />
+    <Compile Include="GameLogic\Common\UIFunction.cs" />
+    <Compile Include="GameLogic\Gaming\ScripSystem\Binding\Action.cs" />
+    <Compile Include="GameLogic\Gaming\ScripSystem\Binding\Actor.cs" />
+    <Compile Include="GameLogic\Gaming\ScripSystem\Binding\Event.cs" />
+    <Compile Include="GameLogic\Gaming\ScripSystem\Binding\Node.cs" />
+    <Compile Include="GameLogic\Gaming\ScripSystem\Events\EventManager.cs" />
+    <Compile Include="GameLogic\Gaming\ScripSystem\Events\EventNode.cs" />
+    <Compile Include="GameLogic\Gaming\ScripSystem\Events\MsicEvent.cs" />
+    <Compile Include="GameLogic\Gaming\ScripSystem\Events\TestEvent.cs" />
+    <Compile Include="GameLogic\Gaming\ScripSystem\ScriptBinding.cs" />
+    <Compile Include="GameLogic\Gaming\ScripSystem\ScriptHelper.cs" />
+    <Compile Include="GameLogic\Gaming\SpawnInfo.cs" />
+    <Compile Include="GameLogic\Gaming\SpawnType.cs" />
+    <Compile Include="GameLogic\Gaming\SpriteBatchManager.cs" />
+    <Compile Include="GameLogic\Gaming\WingmanSpawner.cs" />
+    <Compile Include="GameLogic\UI\CoverScene.cs" />
+    <Compile Include="GameLogic\UI\Dialogs\BuyGolds.cs" />
+    <Compile Include="GameLogic\UI\Dialogs\BuyPower.cs" />
+    <Compile Include="GameLogic\UI\Dialogs\BuyShield.cs" />
+    <Compile Include="GameLogic\UI\Dialogs\BuySkill.cs" />
+    <Compile Include="GameLogic\UI\Dialogs\BuySuppriseGift.cs" />
+    <Compile Include="GameLogic\UI\Dialogs\DialogWindow.cs" />
+    <Compile Include="GameLogic\UI\Dialogs\GameAbout.cs" />
+    <Compile Include="GameLogic\UI\Dialogs\GameExit.cs" />
+    <Compile Include="GameLogic\UI\Dialogs\GameLottery.cs" />
+    <Compile Include="GameLogic\UI\Dialogs\GameResurrection.cs" />
+    <Compile Include="GameLogic\UI\Dialogs\GameVIP.cs" />
+    <Compile Include="GameLogic\UI\Dialogs\LotteryResult.cs" />
+    <Compile Include="GameLogic\UI\Dialogs\BuyRichGift.cs" />
+    <Compile Include="GameLogic\UI\Dialogs\VIPMsg.cs" />
+    <Compile Include="GameLogic\UI\Effects\BuyButtonEffect.cs" />
+    <Compile Include="GameLogic\UI\Effects\Effectable.cs" />
+    <Compile Include="GameLogic\UI\Effects\ActionEffects.cs" />
+    <Compile Include="GameLogic\UI\Effects\MiniTileEffect.cs" />
+    <Compile Include="GameLogic\UI\Effects\SuppriseEffect.cs" />
+    <Compile Include="GameLogic\UI\Effects\TileEffect.cs" />
+    <Compile Include="GameLogic\UI\Effects\TileLight.cs" />
+    <Compile Include="GameLogic\UI\Effects\VIPButtionEffect.cs" />
+    <Compile Include="GameLogic\UI\GameRankingList.cs" />
+    <Compile Include="GameLogic\UI\GameStore.cs" />
+    <Compile Include="GameLogic\UI\Guide\GuideCommand.cs" />
+    <Compile Include="GameLogic\UI\Guide\GuideData.cs" />
+    <Compile Include="GameLogic\UI\Guide\GuideText.cs" />
+    <Compile Include="GameLogic\UI\Guide\GuideWindow.cs" />
+    <Compile Include="GameLogic\UI\IUpdateUI.cs" />
+    <Compile Include="GameLogic\UI\LevelSelectingUILayer.cs" />
+    <Compile Include="GameLogic\UI\LoadingUILayer.cs" />
+    <Compile Include="GameLogic\UI\LoadingScene.cs" />
+    <Compile Include="GameLogic\UI\LevelSelectingScene.cs" />
+    <Compile Include="GameLogic\UI\MainMenuScene.cs" />
+    <Compile Include="GameLogic\UI\MainMenuUIlayer.cs" />
+    <Compile Include="GameLogic\UI\PlayerLevelUpScene.cs" />
+    <Compile Include="GameLogic\UI\PlayerLevelUpUILayer.cs" />
+    <Compile Include="GameLogic\UI\PlayerSelectingScene.cs" />
+    <Compile Include="GameLogic\UI\PlayerSelectingUILayer.cs" />
+    <Compile Include="GameLogic\UI\PowerRecovery.cs" />
+    <Compile Include="GameLogic\UI\UserDocText.cs" />
+    <Compile Include="GameLogic\UI\Widgets\BossWaring.cs" />
+    <Compile Include="GameLogic\UI\Widgets\FightWin.cs" />
+    <Compile Include="GameLogic\UI\Widgets\PlayerFrenzy.cs" />
+    <Compile Include="GameLogic\UI\Widgets\ResumeTimer.cs" />
+    <Compile Include="GameLogic\UI\Widgets\StarAttributeBar.cs" />
+    <Compile Include="GameLogic\UI\Widgets\PowerAttributeBar.cs" />
+    <Compile Include="GameLogic\UI\WingmanSelecting.cs" />
+    <Compile Include="Game\AppMain.cs" />
+    <Compile Include="Game\Utils.cs" />
+    <Compile Include="MatrixApp.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Matrix_v0.0.2\ScriptLibrary\MatrixEngine\MatrixEngine.csproj">
+      <Project>{1dfe82e2-8913-43bd-aa5b-169b76c90512}</Project>
+      <Name>MatrixEngine</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="GameAnalytics\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>..\..\Runtime\mono\MonoBleedingEdge\lib\mono\4.0\pdb2mdb.exe $(ProjectName).dll
+..\..\Runtime\mono\MonoBleedingEdge\lib\mono\4.0\pdb2mdb.exe MatrixEngine.dll</PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
+</Project>

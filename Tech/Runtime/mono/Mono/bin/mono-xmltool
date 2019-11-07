@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /Users/builduser/buildslave/monoAndRuntimeClassLibs/build/tmp/monoprefix/bin/mono $MONO_OPTIONS /Users/builduser/buildslave/monoAndRuntimeClassLibs/build/tmp/monoprefix/lib/mono/2.0/mono-xmltool.exe "$@"

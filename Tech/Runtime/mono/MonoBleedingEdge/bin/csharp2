@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /Applications/buildAgent/work/504cae83b3b34184/monobuildtools/tmp/monoprefix/bin/mono $MONO_OPTIONS /Applications/buildAgent/work/504cae83b3b34184/monobuildtools/tmp/monoprefix/lib/mono/2.0/csharp.exe "$@"

@@ -1,0 +1,80 @@
+{
+  "classname": "CCNode",
+  "name": null,
+  "canedit": true,
+  "objecttag": 10000,
+  "rotation": 0,
+  "scalex": 1,
+  "scaley": 1,
+  "visible": 1,
+  "x": 0,
+  "y": 0,
+  "zorder": 1,
+  "gameobjects": [
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": null,
+      "canedit": true,
+      "objecttag": 10049,
+      "rotation": 0,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": 262.72219848632812,
+      "y": 403.1112060546875,
+      "zorder": 1,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCSprite",
+          "name": "CCSprite",
+          "file": null,
+          "fileData": {
+            "path": "Data/Map/bg1.png",
+            "plistFile": "",
+            "resourceType": 0
+          }
+        },
+        {
+          "__type": "ComPropertySurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCComAttribute",
+          "name": "CCComAttribute",
+          "fileData": {
+            "path": "Custom_Property/Map4_layer1.json",
+            "plistFile": "",
+            "resourceType": 0
+          },
+          "keyvalues": null
+        }
+      ]
+    }
+  ],
+  "CanvasSize": {
+    "_height": 800,
+    "_width": 524
+  },
+  "Triggers": null,
+  "Version": "1.6.0.0",
+  "components": [
+    {
+      "__type": "ComSceneSurrogate:#EditorCommon.JsonModel.Component",
+      "classname": "CCScene",
+      "name": "CCScene",
+      "scenename": "Map4_layer1"
+    },
+    {
+      "__type": "ComSimpleAudioSurrogate:#EditorCommon.JsonModel.Component",
+      "classname": "CCBackgroundAudio",
+      "name": "CCBackgroundAudio",
+      "file": null,
+      "fileData": {
+        "path": null,
+        "plistFile": null,
+        "resourceType": 0
+      },
+      "loop": 0
+    }
+  ]
+}

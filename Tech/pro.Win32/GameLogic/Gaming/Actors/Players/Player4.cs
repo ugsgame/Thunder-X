@@ -1,0 +1,125 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using Thunder.Common;
+using Thunder.Game;
+using Thunder.GameLogic.Gaming.BulletSystems;
+
+namespace Thunder.GameLogic.Gaming.Actors.Players
+{
+    public class Player4:Player
+    {
+        public Player4(SpawnInfo spawnInfo)
+            : base(spawnInfo)
+        {
+            this.PlayerID = PlayerSpawner.PlayerID.Player4;
+        }
+
+        protected override void Init(SpawnInfo spawnInfo)
+        {
+            base.Info.animName = "player4";
+            base.Init(spawnInfo);
+
+            //分配子弹
+            if (EDebug.swBullet)
+            {
+                InitBullets();
+            }
+        }
+
+        BulletSystem lv1_01;
+
+        BulletSystem lv2_02;
+        BulletSystem lv2_03;
+
+        BulletSystem lv3_01;
+        BulletSystem lv3_02;
+        BulletSystem lv3_03;
+
+        BulletSystem lv4_01;
+        BulletSystem lv4_02;
+        BulletSystem lv4_03;
+
+        BulletSystem lv5_06;
+
+        protected virtual void InitBullets()
+        {
+            BulletEffects comEffect = EffectSpawner.Instanse.GetBulletEffect(EffectSpawner.BulletEffectID.PlayerHitEffect);
+
+            lv1_01 = new BulletSystem(Utils.CoverBulletPath("play4-lv1-01.bt"));
+            lv1_01.SetUserEffect(comEffect);
+
+            lv2_02 = new BulletSystem(Utils.CoverBulletPath("play4-lv2-01.bt"));
+            lv2_03 = new BulletSystem(Utils.CoverBulletPath("play4-lv2-01.bt"));
+            lv2_02.SetUserEffect(comEffect);
+            lv2_03.SetUserEffect(comEffect);
+
+            lv3_01 = new BulletSystem(Utils.CoverBulletPath("play4-lv3-02.bt"));
+            lv3_02 = new BulletSystem(Utils.CoverBulletPath("play4-lv3-01.bt"));
+            lv3_03 = new BulletSystem(Utils.CoverBulletPath("play4-lv3-01.bt"));
+            lv3_01.SetUserEffect(comEffect);
+            lv3_02.SetUserEffect(comEffect);
+            lv3_03.SetUserEffect(comEffect);
+
+            lv4_01 = new BulletSystem(Utils.CoverBulletPath("play4-lv4-01.bt"));
+            lv4_02 = new BulletSystem(Utils.CoverBulletPath("play4-lv4-02.bt"));
+            lv4_03 = new BulletSystem(Utils.CoverBulletPath("play4-lv4-02.bt"));
+            lv4_01.SetUserEffect(comEffect);
+            lv4_02.SetUserEffect(comEffect);
+            lv4_03.SetUserEffect(comEffect);
+
+            lv5_06 = new BulletSystem(Utils.CoverBulletPath("play4-lv5-01.bt"));
+            lv5_06.SetUserEffect(comEffect);
+        }
+
+        protected override void OnLevelUp(int level, bool def)
+        {
+            base.OnLevelUp(level, def);
+
+            if (level == 1)
+            {
+                this.UnbindEmitter();
+                this.BindEmitter(EmitPoint.Emit1, lv1_01);
+            }
+            else if (level == 2)
+            {
+                this.UnbindEmitter();
+                this.BindEmitter(EmitPoint.Emit2, lv2_02);
+                this.BindEmitter(EmitPoint.Emit3, lv2_03);
+            }
+            else if (level == 3)
+            {
+                this.UnbindEmitter();
+                this.BindEmitter(EmitPoint.Emit1, lv3_01);
+                this.BindEmitter(EmitPoint.Emit2, lv3_02);
+                this.BindEmitter(EmitPoint.Emit3, lv3_03);
+            }
+            else if (level == 4)
+            {
+                this.UnbindEmitter();
+                this.BindEmitter(EmitPoint.Emit1, lv4_01);
+                this.BindEmitter(EmitPoint.Emit2, lv4_02);
+                this.BindEmitter(EmitPoint.Emit3, lv4_03);
+            }
+        }
+
+        protected override void OnFrenzy()
+        {
+            base.OnFrenzy();
+            this.UnbindEmitter();
+            this.BindEmitter(EmitPoint.Emit6, lv5_06);
+        }
+
+        protected override void OnEnter()
+        {
+            base.OnEnter();
+        }
+
+        protected override void OnExit()
+        {
+            base.OnExit();
+            this.CloseFire();
+        }
+    }
+}

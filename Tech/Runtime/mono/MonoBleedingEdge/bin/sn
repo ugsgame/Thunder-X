@@ -1,0 +1,3 @@
+#!/bin/sh
+umask 077
+exec /Applications/buildAgent/work/504cae83b3b34184/monobuildtools/tmp/monoprefix/bin/mono $MONO_OPTIONS /Applications/buildAgent/work/504cae83b3b34184/monobuildtools/tmp/monoprefix/lib/mono/4.0/sn.exe "$@"
